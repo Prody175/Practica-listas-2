@@ -1,0 +1,12 @@
+.recipe-gallery {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+}
+.recipe-gallery img {
+    width: 100px; /* ajusta el tamaño de las miniaturas según sea necesario */
+    height: 100px;
+    border-radius: 5px;
+    margin: 5px;
+}
